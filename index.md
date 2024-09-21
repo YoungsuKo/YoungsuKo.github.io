@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hi, I am Yougnsu Ko! I am a software engineer working at Hyundai Motor Company. I have an interest in system control and fault diagnosis.
 </p>
 
 <p>
