@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi, I am Yougnsu Ko! I am a software engineer working at Hyundai Motor Company. I have an interest in system control and fault diagnosis.
+  Hi, I am Yougnsu Ko working as a research engineer in Hyundai Motor Company. I am responsible for developing inverter software including motor control and its protection. My research interest is enhancing reliability of system by using fault-tolerant control and fault diagnosis techniques. I received my B.S. and M.S. in mechanical engineering from Konkuk University, South Korea.
 </p>
 
 <p>
