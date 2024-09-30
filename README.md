@@ -119,7 +119,7 @@ Create (or edit) the `index.markdown` file and add the following:
 ---
 layout: home
 profile_picture:
-  src: /assets/img/IMG_2560.JPG
+  src: /assets/img/Profile_Youngsu.jpeg
   alt: website picture
 ---
 
