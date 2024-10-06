@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: CV
-    - name: Blog
+    # - name: CV
+    # - name: Blog
 
 footer:
   show_powered_by: true
