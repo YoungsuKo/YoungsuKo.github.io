@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: CV
-    # - name: Blog
+    - name: Blog
 
 footer:
   show_powered_by: true
